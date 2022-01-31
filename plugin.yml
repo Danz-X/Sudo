@@ -1,6 +1,6 @@
 name: Sudo
 author: ErikX
-api: 4.0.0
+api: 4.0.7
 version: 1.0
 main: ErikX\sudo\Main
 
